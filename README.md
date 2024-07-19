@@ -14,7 +14,7 @@ The MNIST dataset includes 28x28 grayscale images of handwritten digits. You can
 
 To access the project, visit:
 
-[Handwritten Digits Classification Repository](https://github.com/Sagar253443/Handwritten-Digits-Classification)
+[Handwritten Digits Classification Repository][(https://github.com/Sagar253443/digit_classification/blob/main/digit_classification.ipynb)]
 
 ## Setting Up the Project
 
